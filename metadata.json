@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Ethics Presentation",
+  "description": "Interactive viewer and PowerPoint (.pptx) generator for the AIUB Engineering Ethics presentation on renewable energy grid integration in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
